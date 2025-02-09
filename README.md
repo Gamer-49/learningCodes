@@ -1,2 +1,2 @@
-# courseCodes
+# Learning Projects
 Collection of code from variouse learning resources
